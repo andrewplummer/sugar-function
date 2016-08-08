@@ -1,6 +1,6 @@
 {
   "name": "sugar-function",
-  "description": "A Javascript utility library for working with native objects. Function module.",
+  "description": "Function module for the Sugar Javascript utility library.",
   "homepage": "https://sugarjs.com/",
   "license": "MIT",
   "authors": [
